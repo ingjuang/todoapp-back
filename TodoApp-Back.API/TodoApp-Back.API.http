@@ -1,0 +1,6 @@
+@TodoApp_Back.API_HostAddress = http://localhost:5206
+
+GET {{TodoApp_Back.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

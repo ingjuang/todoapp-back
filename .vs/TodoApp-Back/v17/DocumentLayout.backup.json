@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proyectos\\prueba iris\\TodoApp-Back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.api\\filters\\authorizehmacattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|solutionrelative:todoapp-back.api\\filters\\authorizehmacattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|solutionrelative:todoapp-back.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC78E40A-2A4A-4750-B722-2F215AD1BC00}|TodoApp-Back.Domain\\TodoApp-Back.Domain.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.domain\\entities\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC78E40A-2A4A-4750-B722-2F215AD1BC00}|TodoApp-Back.Domain\\TodoApp-Back.Domain.csproj|solutionrelative:todoapp-back.domain\\entities\\taskentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.api\\controllers\\hmaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|solutionrelative:todoapp-back.api\\controllers\\hmaccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5027CBF-5FBA-4692-9427-C2F39D6AFB35}|TodoApp-Back.Application\\TodoApp-Back.Application.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.application\\services\\hmacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5027CBF-5FBA-4692-9427-C2F39D6AFB35}|TodoApp-Back.Application\\TodoApp-Back.Application.csproj|solutionrelative:todoapp-back.application\\services\\hmacservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13D46D53-116A-4BEC-97BF-B2190C77BF00}|TodoApp-Back.Util\\TodoApp-Back.Util.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.util\\responses\\petitionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13D46D53-116A-4BEC-97BF-B2190C77BF00}|TodoApp-Back.Util\\TodoApp-Back.Util.csproj|solutionrelative:todoapp-back.util\\responses\\petitionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|solutionrelative:todoapp-back.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CCE397C3-115A-4393-8D5F-3CFD47B95EB9}|TodoApp-Back.API\\TodoApp-Back.API.csproj|solutionrelative:todoapp-back.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5027CBF-5FBA-4692-9427-C2F39D6AFB35}|TodoApp-Back.Application\\TodoApp-Back.Application.csproj|d:\\proyectos\\prueba iris\\todoapp-back\\todoapp-back.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5027CBF-5FBA-4692-9427-C2F39D6AFB35}|TodoApp-Back.Application\\TodoApp-Back.Application.csproj|solutionrelative:todoapp-back.application\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskEntity.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Domain\\Entities\\TaskEntity.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.Domain\\Entities\\TaskEntity.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Domain\\Entities\\TaskEntity.cs",
+              "RelativeToolTip": "TodoApp-Back.Domain\\Entities\\TaskEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:58:05.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PetitionResponse.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Util\\Responses\\PetitionResponse.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.Util\\Responses\\PetitionResponse.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Util\\Responses\\PetitionResponse.cs",
+              "RelativeToolTip": "TodoApp-Back.Util\\Responses\\PetitionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:03:51.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HmacService.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Application\\Services\\HmacService.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.Application\\Services\\HmacService.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Application\\Services\\HmacService.cs",
+              "RelativeToolTip": "TodoApp-Back.Application\\Services\\HmacService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:49:32.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizeHmacAttribute.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Filters\\AuthorizeHmacAttribute.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.API\\Filters\\AuthorizeHmacAttribute.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Filters\\AuthorizeHmacAttribute.cs",
+              "RelativeToolTip": "TodoApp-Back.API\\Filters\\AuthorizeHmacAttribute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:40:22.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HmacController.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Controllers\\HmacController.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.API\\Controllers\\HmacController.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Controllers\\HmacController.cs",
+              "RelativeToolTip": "TodoApp-Back.API\\Controllers\\HmacController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:38:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.API\\Controllers\\TaskController.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TodoApp-Back.API\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:36:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Application\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.Application\\Services\\TaskService.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.Application\\Services\\TaskService.cs",
+              "RelativeToolTip": "TodoApp-Back.Application\\Services\\TaskService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:32:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApp-Back.API\\appsettings.json",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\appsettings.json",
+              "RelativeToolTip": "TodoApp-Back.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T05:28:09.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp-Back.API\\Program.cs",
+              "ToolTip": "D:\\proyectos\\prueba iris\\TodoApp-Back\\TodoApp-Back.API\\Program.cs",
+              "RelativeToolTip": "TodoApp-Back.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T05:24:44.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

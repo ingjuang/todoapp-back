@@ -1,0 +1,11 @@
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\bin\Debug\net9.0\TodoApp-Back.Domain.deps.json
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\bin\Debug\net9.0\TodoApp-Back.Domain.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\bin\Debug\net9.0\TodoApp-Back.Domain.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.AssemblyInfoInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.AssemblyInfo.cs
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.csproj.CoreCompileInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\refint\TodoApp-Back.Domain.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\TodoApp-Back.Domain.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Domain\obj\Debug\net9.0\ref\TodoApp-Back.Domain.dll

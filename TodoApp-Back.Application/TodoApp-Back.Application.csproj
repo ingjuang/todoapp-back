@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>TodoApp_Back.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TodoApp-Back.Domain\TodoApp-Back.Domain.csproj" />
+    <ProjectReference Include="..\TodoApp-Back.Infraestructure\TodoApp-Back.Infraestructure.csproj" />
+    <ProjectReference Include="..\TodoApp-Back.Util\TodoApp-Back.Util.csproj" />
+  </ItemGroup>
+
+</Project>

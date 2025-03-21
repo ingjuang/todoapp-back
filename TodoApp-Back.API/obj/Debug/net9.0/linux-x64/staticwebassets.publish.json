@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "7ILI2RSHDNogRDkOJpqGTehW9mDXRJUoW/1uyZ7Uszs=",
+  "Source": "TodoApp-Back.API",
+  "BasePath": "_content/TodoApp-Back.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

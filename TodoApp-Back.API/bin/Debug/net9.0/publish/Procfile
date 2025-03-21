@@ -1,0 +1,1 @@
+web: dotnet exec ./TodoApp-Back.API.dll

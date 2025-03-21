@@ -1,0 +1,15 @@
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\bin\Debug\net9.0\TodoApp-Back.Infraestructure.deps.json
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\bin\Debug\net9.0\TodoApp-Back.Infraestructure.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\bin\Debug\net9.0\TodoApp-Back.Infraestructure.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\bin\Debug\net9.0\TodoApp-Back.Domain.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\bin\Debug\net9.0\TodoApp-Back.Domain.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.csproj.AssemblyReference.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.AssemblyInfoInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.AssemblyInfo.cs
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.csproj.CoreCompileInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-.E2B7BDD7.Up2Date
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\refint\TodoApp-Back.Infraestructure.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\TodoApp-Back.Infraestructure.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Infraestructure\obj\Debug\net9.0\ref\TodoApp-Back.Infraestructure.dll

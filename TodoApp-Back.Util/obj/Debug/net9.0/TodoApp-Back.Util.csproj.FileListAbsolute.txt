@@ -1,0 +1,11 @@
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\bin\Debug\net9.0\TodoApp-Back.Util.deps.json
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\bin\Debug\net9.0\TodoApp-Back.Util.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\bin\Debug\net9.0\TodoApp-Back.Util.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.AssemblyInfoInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.AssemblyInfo.cs
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.csproj.CoreCompileInputs.cache
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\refint\TodoApp-Back.Util.dll
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\TodoApp-Back.Util.pdb
+D:\proyectos\prueba iris\TodoApp-Back\TodoApp-Back.Util\obj\Debug\net9.0\ref\TodoApp-Back.Util.dll
